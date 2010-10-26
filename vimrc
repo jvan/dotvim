@@ -17,6 +17,8 @@ set cursorline
 
 set nowrap
 
+colorscheme liquidcarbon
+
 filetype plugin indent on
 
 let mapleader=","
