@@ -1,3 +1,6 @@
+call pathogen#runtime_append_all_bundles()
+call pathogen#helptags()
+
 set nocompatible
 
 set tabstop=3     "set tab character to 3 spaces
