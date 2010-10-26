@@ -1,6 +1,6 @@
 Installation:
    
-   <clone git repository>
+   hg clone git://github.com/jvan/dotvim.git ~/.vim 
 
 Create symlinks:
 
