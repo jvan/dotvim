@@ -19,4 +19,6 @@ set nowrap
 
 filetype plugin indent on
 
+let mapleader=","
+
 nnoremap ; :
