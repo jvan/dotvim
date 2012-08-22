@@ -17,10 +17,14 @@ set cursorline
 
 set nowrap
 
-colorscheme liquidcarbon
+colorscheme jellybeans
 
 filetype plugin indent on
 
 let mapleader=","
 
 nnoremap ; :
+
+if $COLORTERM == 'gnome-terminal'
+   set t_Co=256
+endif
